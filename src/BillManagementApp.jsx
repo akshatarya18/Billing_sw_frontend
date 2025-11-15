@@ -28,7 +28,7 @@ import {
 } from "lucide-react";
 import Swal from "sweetalert2";
 const BillManagementApp = () => {
-  const API_BASE_URL = "https://backend-sw-project.onrender.com";
+  const API_BASE_URL = "https://billing-software-8de3.onrender.com";
 
   const getBillTypeLabel = (type) => {
     const labels = {
